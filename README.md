@@ -1,0 +1,2 @@
+# 2020FA_DLAPP_LAB2
+Chinese Number OCR
